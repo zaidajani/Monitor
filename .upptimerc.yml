@@ -5,9 +5,9 @@ repo: Monitor # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Perfactors website
-    url: https://www.perfactors.com
+    url: https://perfactors.com
   - name: Perfactors Blog
-    url: https://blog.perfactors.org
+    url: https://blog.perfactors.com
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
