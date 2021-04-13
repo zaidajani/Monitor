@@ -40,17 +40,17 @@
     "url": "https://daalpani.in/",
     "icon": "https://favicons.githubusercontent.com/daalpani.in",
     "slug": "daal-pani-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1413,
-    "timeDay": 1419,
-    "timeWeek": 1413,
-    "timeMonth": 1413,
-    "timeYear": 1413,
+    "time": 1431,
+    "timeDay": 1471,
+    "timeWeek": 1431,
+    "timeMonth": 1431,
+    "timeYear": 1431,
     "dailyMinutesDown": {}
   }
 ]
