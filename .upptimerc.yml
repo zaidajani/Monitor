@@ -10,6 +10,10 @@ sites:
     url: https://blog.perfactors.com
   - name: DaalPani website
     url: https://daalpani.in/
+  - name: Qaumihaalat website
+    url: https://www.qaumihalaat.in/
+  - name: covidnavimumbai
+    url: http://covidnavimumbai.in/
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
