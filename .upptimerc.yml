@@ -4,10 +4,6 @@ repo: Monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Perfactors website
-    url: https://perfactors.com/
-  - name: Perfactors Blog
-    url: https://blog.perfactors.com/
   - name: DaalPani website
     url: https://daalpani.in/
   - name: Qaumihaalat website
