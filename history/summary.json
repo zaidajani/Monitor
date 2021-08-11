@@ -52,5 +52,41 @@
     "timeMonth": 267,
     "timeYear": 271,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "perfectstore",
+    "url": "http://perfectstore.perfactors.com/",
+    "icon": "https://favicons.githubusercontent.com/perfectstore.perfactors.com",
+    "slug": "perfectstore",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1386,
+    "timeDay": 1386,
+    "timeWeek": 1386,
+    "timeMonth": 1386,
+    "timeYear": 1386,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "perfactors",
+    "url": "http://perfactors.com/",
+    "icon": "https://favicons.githubusercontent.com/perfactors.com",
+    "slug": "perfactors",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1657,
+    "timeDay": 1657,
+    "timeWeek": 1657,
+    "timeMonth": 1657,
+    "timeYear": 1657,
+    "dailyMinutesDown": {}
   }
 ]
