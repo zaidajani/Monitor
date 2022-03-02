@@ -10,10 +10,7 @@ sites:
     url: https://www.qaumihalaat.in/
   - name: covidnavimumbai
     url: http://covidnavimumbai.in/
-  - name: perfectstore
-    url: http://perfectstore.perfactors.com/
-  - name: perfactors
-    url: http://perfactors.com/
+
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
